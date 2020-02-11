@@ -21,3 +21,7 @@ while run:
 
 print("Ending game")
 pygame.quit()
+
+pygame.image.load([ main.py ]).convert()
+
+img = pygame.image.load(' sprite.png').convert
